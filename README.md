@@ -70,3 +70,11 @@
 -   resources/views/ — шаблоны Blade для отображения данных.
 -   database/migrations/ — миграции для создания таблиц базы данных.
 -   database/seeders/ — сиды для начальных данных.
+
+## Зависимости
+
+```
+  - Laravel Version - 11.40.0
+  - PHP - 8.4.2
+  - Composer - 2.8.4
+```
